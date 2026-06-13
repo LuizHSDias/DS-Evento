@@ -1,4 +1,4 @@
-# Sistema Evento
+# Sistema Evento (EM DESENVOLVIMENTO!)
 
 Projeto desenvolvido como solução do desafio **Modelo de Domínio e ORM** da formação Desenvolvedor Moderno da DevSuperior.
 
